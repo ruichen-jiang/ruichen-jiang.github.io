@@ -96,6 +96,10 @@ NeurIPS 2023
 
 == All Preprints
 
+- [https://arxiv.org/abs/2412.02175 Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods] \n
+(α-β order) *Ruichen Jiang*, Aryan Mokhtari, Francisco Patitucci \n
+ArXiv preprint, 2024
+
 - [https://arxiv.org/abs/2410.02626 Online Learning Guided Quasi-Newton Methods with Global Non-Asymptotic Convergence] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
 ArXiv preprint, 2024
