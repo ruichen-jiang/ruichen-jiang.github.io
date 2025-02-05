@@ -21,6 +21,10 @@ My current research interests focus on *convex* and *non-convex optimization*, p
 
 == Selected Works
 
+- [https://arxiv.org/abs/2412.02175 Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods] \n
+(α-β order) *Ruichen Jiang*, Aryan Mokhtari, Francisco Patitucci \n
+STOC 2025
+
 - [https://arxiv.org/abs/2306.02212 Accelerated Quasi-Newton Proximal Extragradient: Faster Rate for Smooth Convex Optimization] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
 NeurIPS 2023 (*Spotlight*)
@@ -38,6 +42,10 @@ COLT 2023
     ArXiv preprint, 2022
 
 == All Conference Papers
+
+- [https://arxiv.org/abs/2412.02175 Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods] \n
+(α-β order) *Ruichen Jiang*, Aryan Mokhtari, Francisco Patitucci \n
+STOC 2025
 
 - [https://arxiv.org/abs/2406.02016 Adaptive and Optimal Second-order Optimistic Methods for Minimax Optimization] \n
 *Ruichen Jiang*, Ali Kavis, Qiujiang Jin, Sujay Sanghavi, Aryan Mokhtari \n
@@ -95,10 +103,6 @@ NeurIPS 2023
     #, Aug. 2020
 
 == All Preprints
-
-- [https://arxiv.org/abs/2412.02175 Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods] \n
-(α-β order) *Ruichen Jiang*, Aryan Mokhtari, Francisco Patitucci \n
-ArXiv preprint, 2024
 
 - [https://arxiv.org/abs/2410.02626 Online Learning Guided Quasi-Newton Methods with Global Non-Asymptotic Convergence] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
