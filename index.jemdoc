@@ -43,6 +43,10 @@ COLT 2023
 
 == All Conference Papers
 
+- [https://arxiv.org/abs/2406.04592 Convergence Analysis of Adaptive Gradient Methods under Refined Smoothness and Noise Assumptions] \n
+*Ruichen Jiang*, Devyani Maladkar, Aryan Mokhtari \n
+COLT 2025
+
 - [https://arxiv.org/abs/2412.02175 Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods] \n
 (α-β order) *Ruichen Jiang*, Aryan Mokhtari, Francisco Patitucci \n
 STOC 2025
@@ -108,9 +112,7 @@ NeurIPS 2023
 *Ruichen Jiang* and Aryan Mokhtari \n
 ArXiv preprint, 2024
 
-- [https://arxiv.org/abs/2406.04592 Convergence Analysis of Adaptive Gradient Methods under Refined Smoothness and Noise Assumptions] \n
-Devyani Maladkar, *Ruichen Jiang*, Aryan Mokhtari \n
-ArXiv preprint, 2024
+
 
 
 - [https://arxiv.org/abs/2404.01267 Non-asymptotic Global Convergence Rates of BFGS with Exact Line Search] \n
