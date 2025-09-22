@@ -7,11 +7,24 @@
 Ph.D. student, \n
 [https://www.ece.utexas.edu/ Department of Electrical and Computer Engineering], \n
 [https://www.utexas.edu/ The University of Texas at Austin] \n
-# Phone: +86 13683258743 \n
 E-mail: rjiang \[at\] utexas \[dot\] edu \n
-[https://scholar.google.com/citations?hl=en&user=BGFt1UMAAAAJ&view_op=list_works&sortby=pubdate Google Scholar]
+{{<p>
+  <a href="https://scholar.google.com/citations?hl=en&user=BGFt1UMAAAAJ&view_op=list_works&sortby=pubdate">
+    <img src="photos/scholar.svg" alt="Google Scholar" width="28" height="28" style="margin-right:10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/ruichenj">
+    <img src="photos/linkedin.svg" alt="LinkedIn" width="28" height="28" style="margin-right:10px;">
+  </a>
+    <a href="https://orcid.org/0000-0003-2352-1549">
+    <img src="photos/ORCID.svg" alt="ORCID" width="28" height="28">
+  </a>
+</p>
+}}
+# [https://scholar.google.com/citations?hl=en&user=BGFt1UMAAAAJ&view_op=list_works&sortby=pubdate Google Scholar]
 # [Ruichen_Jiang_CV_2019.pdf A brief CV is here].
 ~~~
+
+
 
 == About me
 I am a 5th-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
@@ -41,7 +54,21 @@ COLT 2023
     *Ruichen Jiang* and Aryan Mokhtari \n
     ArXiv preprint, 2022
 
+== All Journal Papers
+
+- [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
+    *Ruichen Jiang* and Aryan Mokhtari \n
+    /SIAM Journal on Optimization/, 2025
+
+- [https://arxiv.org/abs/2404.01267 Non-asymptotic Global Convergence Rates of BFGS with Exact Line Search] \n
+Qiujiang Jin, *Ruichen Jiang*, Aryan Mokhtari \n
+/Mathematical Programming/, 2025
+
 == All Conference Papers
+
+- [https://arxiv.org/abs/2507.23155 On the Complexity of Finding Stationary Points in Nonconvex Simple Bilevel Optimization] \n
+Jincheng Cao, *Ruichen Jiang*, Erfan Yazdandoost Hamedani, Aryan Mokhtari \n
+NeurIPS 2025
 
 - [https://arxiv.org/abs/2406.04592 Convergence Analysis of Adaptive Gradient Methods under Refined Smoothness and Noise Assumptions] \n
 *Ruichen Jiang*, Devyani Maladkar, Aryan Mokhtari \n
@@ -108,25 +135,17 @@ NeurIPS 2023
 
 == All Preprints
 
+- [https://arxiv.org/abs/2506.08419 Online Learning-guided Learning Rate Adaptation via Gradient Alignment] \n
+(α-β order) *Ruichen Jiang*, Ali Kavis, and Aryan Mokhtari \n
+ArXiv preprint, 2025
+
 - [https://arxiv.org/abs/2410.02626 Online Learning Guided Quasi-Newton Methods with Global Non-Asymptotic Convergence] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
 ArXiv preprint, 2024
 
-
-
-
-- [https://arxiv.org/abs/2404.01267 Non-asymptotic Global Convergence Rates of BFGS with Exact Line Search] \n
-Qiujiang Jin, *Ruichen Jiang*, Aryan Mokhtari \n
-ArXiv preprint, 2024
-
-
 - [https://arxiv.org/abs/2306.02429 An Inexact Conditional Gradient Method for Constrained Bilevel Optimization] \n
 Nazanin Abolfazli, *Ruichen Jiang*, Aryan Mokhtari, and Erfan Yazdandoost Hamedani  \n
 ArXiv preprint, 2023
-
-- [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
-    *Ruichen Jiang* and Aryan Mokhtari \n
-    ArXiv preprint, 2022
 
 - [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection] \[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report]\] \n
     *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
