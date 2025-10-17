@@ -26,10 +26,12 @@ E-mail: rjiang \[at\] utexas \[dot\] edu \n
 
 
 == About me
-I am a 5th-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
+I am a final-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
 Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
-My current research interests focus on *convex* and *non-convex optimization*, particularly in using *online learning* techniques to design optimization methods. Recently, I have been working on min-max optimization, second-order and higher-order methods, and bilevel optimization. 
+My current research interests focus on *convex* and *non-convex optimization*, particularly in using *online learning* techniques to design optimization methods. Recently, I have been working on min-max optimization, second-order and higher-order methods, and bilevel optimization.
+
+{{<span style="color:red; font-weight:bold;">I am on the 2025–2026 job market for industry and academic research positions!</span>}}
 
 == Selected Works
 
@@ -133,6 +135,10 @@ NeurIPS 2023
     #, Aug. 2020
 
 == All Preprints
+
+- [https://arxiv.org/abs/2510.03167 Improving Online-to-Nonconvex Conversion for Smooth Optimization via Double Optimism] \n
+Francisco Patitucci, *Ruichen Jiang*, Aryan Mokhtari \n
+ArXiv preprint, 2025
 
 - [https://arxiv.org/abs/2506.08419 Online Learning-guided Learning Rate Adaptation via Gradient Alignment] \n
 (α-β order) *Ruichen Jiang*, Ali Kavis, and Aryan Mokhtari \n
