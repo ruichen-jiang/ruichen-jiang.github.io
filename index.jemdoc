@@ -67,6 +67,10 @@ Qiujiang Jin, *Ruichen Jiang*, Aryan Mokhtari \n
 
 == All Conference Papers
 
+- [https://arxiv.org/abs/2510.03167 Improving Online-to-Nonconvex Conversion for Smooth Optimization via Double Optimism] \n
+Francisco Patitucci, *Ruichen Jiang*, Aryan Mokhtari \n
+ICLR 2026
+
 - [https://arxiv.org/abs/2507.23155 On the Complexity of Finding Stationary Points in Nonconvex Simple Bilevel Optimization] \n
 Jincheng Cao, *Ruichen Jiang*, Erfan Yazdandoost Hamedani, Aryan Mokhtari \n
 NeurIPS 2025
@@ -136,9 +140,6 @@ NeurIPS 2023
 
 == All Preprints
 
-- [https://arxiv.org/abs/2510.03167 Improving Online-to-Nonconvex Conversion for Smooth Optimization via Double Optimism] \n
-Francisco Patitucci, *Ruichen Jiang*, Aryan Mokhtari \n
-ArXiv preprint, 2025
 
 - [https://arxiv.org/abs/2506.08419 Online Learning-guided Learning Rate Adaptation via Gradient Alignment] \n
 (α-β order) *Ruichen Jiang*, Ali Kavis, and Aryan Mokhtari \n
