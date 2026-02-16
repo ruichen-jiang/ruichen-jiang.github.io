@@ -35,8 +35,12 @@ My current research interests focus on *convex* and *non-convex optimization*, p
 
 == Selected Works
 
+- [https://arxiv.org/abs/2602.08232 Adaptive Matrix Online Learning through Smoothing with Guarantees for Nonsmooth Nonconvex Optimization] \n
+(α-β order) *Ruichen Jiang*, Zakaria Mhammedi, Mehryar Mohri, and Aryan Mokhtari \n
+ArXiv preprint, 2026
+
 - [https://arxiv.org/abs/2412.02175 Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods] \n
-(α-β order) *Ruichen Jiang*, Aryan Mokhtari, Francisco Patitucci \n
+(α-β order) *Ruichen Jiang*, Aryan Mokhtari, and Francisco Patitucci \n
 STOC 2025
 
 - [https://arxiv.org/abs/2306.02212 Accelerated Quasi-Newton Proximal Extragradient: Faster Rate for Smooth Convex Optimization] \n
@@ -139,6 +143,10 @@ NeurIPS 2023
     #, Aug. 2020
 
 == All Preprints
+
+- [https://arxiv.org/abs/2602.08232 Adaptive Matrix Online Learning through Smoothing with Guarantees for Nonsmooth Nonconvex Optimization] \n
+(α-β order) *Ruichen Jiang*, Zakaria Mhammedi, Mehryar Mohri, and Aryan Mokhtari \n
+ArXiv preprint, 2026
 
 - [https://arxiv.org/abs/2506.08419 Online Learning-guided Learning Rate Adaptation via Gradient Alignment] \n
 (α-β order) *Ruichen Jiang*, Ali Kavis, and Aryan Mokhtari \n
