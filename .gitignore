@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+
+# Local editor settings
+.vscode/
+
+# Local-only CV files
+/Ruichen_CV_*.pdf
+
+# Superseded and legacy photo assets kept locally
+/photos/headshot.jpg
+/photos/relay_aircomp.png
+/photos/.picasa.ini
+/photos/.picasaoriginals/
