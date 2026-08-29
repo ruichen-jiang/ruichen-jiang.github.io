@@ -2,7 +2,9 @@
 = Publications
 
 == Journal Papers
-
+- [https://link.springer.com/article/10.1007/s10107-026-02396-4 Online Learning Guided Quasi-Newton Methods with Global Non-Asymptotic Convergence] \n
+*Ruichen Jiang* and Aryan Mokhtari \n
+/Mathematical Programming/, 2026
 - [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
     *Ruichen Jiang* and Aryan Mokhtari \n
     /SIAM Journal on Optimization/, 2025
@@ -75,9 +77,6 @@ NeurIPS 2023
 - [https://arxiv.org/abs/2506.08419 Online Learning-guided Learning Rate Adaptation via Gradient Alignment] \n
 (α-β order) *Ruichen Jiang*, Ali Kavis, and Aryan Mokhtari \n
 ArXiv preprint, 2025
-- [https://arxiv.org/abs/2410.02626 Online Learning Guided Quasi-Newton Methods with Global Non-Asymptotic Convergence] \n
-*Ruichen Jiang* and Aryan Mokhtari \n
-ArXiv preprint, 2024
 - [https://arxiv.org/abs/2306.02429 An Inexact Conditional Gradient Method for Constrained Bilevel Optimization] \n
 Nazanin Abolfazli, *Ruichen Jiang*, Aryan Mokhtari, and Erfan Yazdandoost Hamedani  \n
 ArXiv preprint, 2023

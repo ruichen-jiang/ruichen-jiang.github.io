@@ -42,9 +42,6 @@ STOC 2025
 - [https://arxiv.org/abs/2306.02212 Accelerated Quasi-Newton Proximal Extragradient: Faster Rate for Smooth Convex Optimization] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
 NeurIPS 2023 (*Spotlight*)
-- [https://arxiv.org/abs/2302.08580 Online Learning Guided Curvature Approximation: A Quasi-Newton Method with Global Non-Asymptotic Superlinear Convergence] \n
-*Ruichen Jiang*, Qiujiang Jin, and Aryan Mokhtari \n
-COLT 2023
 - [https://arxiv.org/abs/2206.08868 A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
     *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
     AISTATS 2023
